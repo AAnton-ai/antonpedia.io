@@ -1,0 +1,11 @@
+.ing img{
+ 	float: right;
+	height: 260px;
+	border: 5px solid;
+}
+
+img{
+	height: 260px;
+	border: 2px solid;
+}
+
